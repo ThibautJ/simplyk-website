@@ -1,0 +1,317 @@
+.body{
+	margin-top: 0px;
+	font-family: 'Slabo 27px', serif, georgia, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: lighter;
+	margin-bottom: 0px;
+	height: 100%;
+}
+
+.mycontainer{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.row{
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.navbar-brand img{
+	width: 22px;
+	height: auto;
+}
+
+#nav-me{
+	background-color: #FFFFff;
+	opacity: 100%;
+}
+
+#nav-me a{
+	color: #4E4E4E;
+	padding-bottom: 16px;
+}
+
+.space-right{
+	margin-right: 10px;
+}
+
+.section{
+	padding-top: 40px;
+}
+
+
+#first-section{
+	height: 650px;
+	background-image: url("images/70H.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	margin-top: 0px;
+	color: #ffffff;
+}
+
+#logo img{
+	width: 70%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#vision{
+	padding-top: 20px;
+	margin-top: 0px;
+	font-size: 55px;
+	font-weight: 500;
+	text-shadow: 4px 3px 0px #362C30;
+	font-family: 'Open-sans', sans-serif;
+}
+
+#mission {
+	font-size: 22px;
+	padding-top: 70px;
+	letter-spacing: +1px;
+	font-weight: thin;
+	text-shadow: 2px 1px 1px #362C30;
+	font-family: 'Open-sans', sans-serif;
+	text-transform: uppercase;
+}
+
+#description-section{
+	height: 750px;
+	background-color: #E9EAEA;
+	background-size: cover;
+	border-top: 1px solid #a1a1a1;
+}
+
+
+.sous-titre{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 32px;
+	font-weight: lighter;
+	letter-spacing: +1px;
+	color: #1A627A;
+	padding-bottom: 30px;
+}
+
+.sous-titre2{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: +1px;
+	padding-bottom: 30px;
+}
+
+#titre-desciption-section{
+	padding-bottom: 15px;
+}
+
+.force{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: black;
+	background-color: #FCFCFC;
+}
+
+.force-titre{
+	padding-top: 40px;
+	border-top: 1px white solid;
+}
+
+.force-text{
+	padding-bottom: 50px;
+}
+
+.force h3{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 32px;
+	font-weight: lighter;
+	letter-spacing: +1px;
+	color: #1A627A;
+}
+
+.force p{
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.force img{
+	padding-top: 20px;
+	display: block;
+	margin: 0 auto;
+	width: 30%;
+	height: auto;
+	border-radius: 5%;
+}
+
+.force button{
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+
+.panel-title{
+	background-color: #7792FF;
+}
+
+.panel-heading{
+	padding: 0px;
+}
+
+.first{
+	margin-top: 20px;
+	font-weight: bold;
+}
+
+.register {
+	color: #ffffff;
+	background: #1A627A;
+}
+
+#footer{
+	background-color: #000000;
+	margin-bottom: 0px;
+	height: 100%;
+	width: 100%;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: white;
+}
+
+#register-section{
+	height: 700px;
+	background-color: #ffffff;
+	background-size: cover;
+	width: 100%;
+	margin-bottom: 100px;
+	color: black;
+	border-top: 1px solid #c1c1c1;
+}
+
+#partners-section{
+	background-color: #E9EAEA;
+	background-size: cover;
+	border-top: 1px solid #c1c1c1;
+}
+
+#cabm{
+	width: 60%;
+	margin-top: 5%;
+}
+
+.img-partners{
+	height: 200px;
+	margin-bottom: 70px;
+}
+
+.img-partners img{
+	vertical-align: middle;
+	margin-top: 23%;
+	float: none;
+}
+
+.img-partners img:hover{
+	opacity: 0.5;
+}
+
+#fourth-page{
+	height: 600px;
+	background-color: #ffffff;
+	background-size: cover;
+	width: 100%;
+	padding-top: 40px;
+	padding-bottom: 100px;
+	border-top: 1px solid #c1c1c1;
+}
+
+#fourthpage iframe{
+}
+
+#btn-group-register{
+	padding-bottom: 10px;
+}
+
+.loupe h3{
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	padding-bottom: 25px;
+	font-weight: lighter;
+}
+
+.loupe img{
+}
+
+.icon {
+	color: white;
+	font-size: 26px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.facebook:hover{
+	color:#ffffff;
+}
+
+.twitter:hover{
+	color: #ffffff;
+}
+
+.product-hunt:hover{
+	color:#ffffff;
+}
+
+.facebook{
+	color:#3b5998;
+}
+
+.twitter{
+	color: #379EC4;
+}
+
+.product-hunt{
+	color:#EC4D1F;
+}
+
+.equipe{
+	padding-bottom: 150px;
+}
+
+.thumbnail{
+	margin-top: 100px;
+}
+
+#francois{
+	padding-top: 20px;
+	padding-bottom: 13px;
+}
+
+.panel-profile{
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.panel-profile .panel-heading{
+	height: 150px;
+	background-size: cover;
+}
+
+.img-portrait{
+	border-radius: 100%;
+	border: 3px solid white;
+	margin-top: -70px;
+	height: 100px;
+	width: auto;
+}
+
+#alix-heading{
+	background-image: url("images/5H.jpg");
+}
+
+#francois-heading{
+	background-image: url("images/eiffel.jpg");
+}
+
+#alex-heading{
+	background-image: url("images/226H.jpg");
+}
+
+#thibaut-heading{
+	background-image: url("images/crowd.jpg");
+}
