@@ -1,6 +1,6 @@
 .body{
 	margin-top: 0px;
-	font-family: 'Slabo 27px', serif, georgia, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', 'Slabo 27px', serif, georgia, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: lighter;
 	margin-bottom: 0px;
 	height: 100%;
@@ -39,6 +39,24 @@
 	padding-top: 40px;
 }
 
+.text-sk{
+	font-family: 'Open Sans', 'Slabo 27px', sans-serif, georgia, 'Helvetica Neue', Helvetica, Arial, serif;
+	color: black;
+	font-size: 16px;
+	text-align: justify;
+}
+
+.block-text{
+	padding-bottom: 50px;
+	padding-top: 50px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.btn{
+	font-family: 'Open Sans', 'Slabo 27px', sans-serif, georgia, 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
 
 #first-section{
 	height: 650px;
@@ -62,7 +80,7 @@
 	font-size: 55px;
 	font-weight: 500;
 	text-shadow: 4px 3px 0px #362C30;
-	font-family: 'Open-sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 #mission {
@@ -71,13 +89,13 @@
 	letter-spacing: +1px;
 	font-weight: thin;
 	text-shadow: 2px 1px 1px #362C30;
-	font-family: 'Open-sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	text-transform: uppercase;
 }
 
 #description-section{
-	height: 750px;
-	background-color: #E9EAEA;
+	height: 600px;
+	background-color: white;
 	background-size: cover;
 	border-top: 1px solid #a1a1a1;
 }
@@ -211,9 +229,9 @@
 	opacity: 0.5;
 }
 
-#fourth-page{
+#video-section{
 	height: 600px;
-	background-color: #ffffff;
+	background-color: #E9EAEA;
 	background-size: cover;
 	width: 100%;
 	padding-top: 40px;
@@ -228,6 +246,10 @@
 	padding-bottom: 10px;
 }
 
+.btn-description{
+	width: 170px;
+}
+
 .loupe h3{
 	font-family: 'Open Sans', sans-serif;
 	text-align: center;
@@ -238,11 +260,18 @@
 .loupe img{
 }
 
-.icon {
+.icon-sk {
+	color: black;
+	margin-left: 5px;
+	margin-right: 15px;
+}
+
+.icon-sk-white {
 	color: white;
-	font-size: 26px;
-	margin-left: 10px;
-	margin-right: 10px;
+}
+
+.icon-sk-red {
+	color: red;
 }
 
 .facebook:hover{
