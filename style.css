@@ -274,27 +274,20 @@
 	color: red;
 }
 
-.facebook:hover{
-	color:#ffffff;
+.icon-facebook-official:hover{
+	color:white;
 }
 
-.twitter:hover{
-	color: #ffffff;
-}
-
-.product-hunt:hover{
-	color:#ffffff;
-}
-
-.facebook{
+.icon-facebook-official{
 	color:#3b5998;
 }
 
-.twitter{
-	color: #379EC4;
+
+.icon-instagram:hover{
+	color:white;
 }
 
-.product-hunt{
+.icon-instagram{
 	color:#EC4D1F;
 }
 

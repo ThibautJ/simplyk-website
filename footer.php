@@ -10,6 +10,7 @@
   </div>
   <div class="col-md-6 text-right" id="suivez">
     <p>Suivez-nous</p>
-    <p><i class="fa fa-product-hunt product-hunt fa-lg icon-sk icon-sk-white"></i><i class="fa fa-twitter twitter fa-lg icon-sk icon-sk-white"></i><i class="fa fa-facebook facebook fa-lg icon-sk icon-sk-white"></i></p>
+    <a href=""><i class="icon icon-2x icon-sk icon-sk-white icon-facebook-official"></i></a>
+    <a href=""><i class="icon icon-2x icon-sk icon-sk-white icon-instagram"></i></a>
   </div>
 </div>

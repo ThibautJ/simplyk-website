@@ -67,10 +67,10 @@
     <div class="text-center">
       <div class="btn-group"role="group" data-toggle="buttons" aria-label="...">
         <label id="citoyen-button-description" class="btn btn-default active btn-description">
-          <input type="radio" name="options"  autocomplete="off" checked><i class="fa fa-user"></i>   Citoyen
+          <input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk  icon-user"></i>   Citoyen
         </label>
         <label id="organisme-button-description" class="btn btn-default btn-description">
-          <input type="radio" name="options" autocomplete="off"><i class="fa fa-university"></i>   Organisme
+          <input type="radio" name="options" autocomplete="off"><i class="icon icon-sk icon-university"></i>   Organisme
         </label>
       </div>
     </div>
@@ -110,10 +110,10 @@
       <div class="col-md-4 form-wufoo">
         <div class="btn-group btn-group-justified" id="btn-group-register" role="group" data-toggle="buttons" aria-label="...">
           <label id="citoyen-button" class="btn btn-default active">
-            <input type="radio" name="options"  autocomplete="off" checked><i class="fa fa-user"></i>   Citoyen
+            <input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk  icon-user"></i>   Citoyen
           </label>
           <label id="organisme-button" class="btn btn-default">
-            <input type="radio" name="options" autocomplete="off"><i class="fa fa-university"></i>   Organisme
+            <input type="radio" name="options" autocomplete="off"><i class="icon icon-sk icon-university"></i>   Organisme
           </label>
         </div>
         <div id="php-form"><?php include("form-cit.php"); ?></div>
