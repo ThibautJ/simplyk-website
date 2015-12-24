@@ -17,9 +17,6 @@
   <!-- JS -->
   <!--<script type="text/javascript" src="js/changeForm.js"></script>-->
 
-  <!-- jQuery -->
-  <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 
   <!-- octicons/fonticons -->
   <script src="https://use.fonticons.com/a977a97f.js"></script>
@@ -141,6 +138,8 @@
 
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <!-- jQuery -->
+  <script src="js/my-jquery.js"></script>
   <!-- Include all compiled plugins (below), or include individual files as needed -->
   <script src="js/bootstrap.min.js"></script>
 </div>
@@ -162,7 +161,7 @@
   var orga = document.getElementById("organisme-button-description");
   orga.addEventListener('click', function(){
     var form = document.getElementById("description-list");
-    form.innerHTML= '<div class="row"><div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-check"></i><b>Système intuitif</b> Poste des missions en quelques clics, de manière intuitive.</div><div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-comments"></i><b>Communication facilitée</b> Communique avec tes bénévoles depuis ta boite mail ou depuis la plateforme et l\'envoi automatique de mails de remerciement peut être paramétré.</div><div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-check"></i><b>Visibilité accru</b> En étant sur la plateforme, la visibilité de ton organisme est grandement accrue, de même que ton vivier de potentiel bénévoles.</div></div>'}, false);
+    form.innerHTML= '<div class="row"><div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-check"></i><b>Visibilité accru</b> En étant sur la plateforme, la visibilité de ton organisme est grandement accrue, de même que ton vivier de potentiel bénévoles.</div><div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-check"></i><b>Système intuitif</b> Poste des missions en quelques clics, de manière intuitive.</div><div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-comments"></i><b>Communication facilitée</b> Communique avec tes bénévoles depuis ta boite mail ou depuis la plateforme et l\'envoi automatique de mails de remerciement peut être paramétré.</div></div>'}, false);
 </script>
 
 <!-- Appui sur le bouton du formulaire organisme-->
@@ -181,11 +180,11 @@
     form.innerHTML= '<iframe height="564" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="https://tjaurou.wufoo.com/embed/z1ihgqmq177l9zv/"><a href="https://tjaurou.wufoo.com/forms/z1ihgqmq177l9zv/">Fill out my Wufoo form!</a></iframe><div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;"><span class="notranslate">Online contact and registration forms from <a href="http://www.wufoo.com">Wufoo</a>.</span></div>'}, false);
 </script>
 
-<!-- Scroll to form-->
+<!-- Scroll to form
 <script type="text/javascript">
   var citoyen-register = document.getElementById("citoyen-register");
   $(citoyen-register)
-</script>
+</script>-->
 
 <!-- Script GoogleAnalytics-->
 <script>
