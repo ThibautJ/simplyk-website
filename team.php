@@ -49,7 +49,7 @@
 				<div class="panel panel-default panel-profile">
 					<div id="francois-heading" class="panel-heading"></div>
 					<div class="panel-body text-center">
-						<img src="images/francois.png" class="img-responsive center-block img-portrait">
+						<img src="images/francois.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Francois</h3>
 							<p>CEO</p>
