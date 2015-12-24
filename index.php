@@ -103,8 +103,8 @@
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-4 loupe center-block">
-        <h3>Des missions et des bénévoles à portée de main</h3>
-        <img id="loupe" src="images/loupe.png" class="img-responsive">
+        <h3>Des missions et des bénévoles à portée de main sur notre carte interactive</h3>
+        <img id="loupe" src="images/map-platform.png" class="img-responsive img-thumbnail">
       </div>
       <div class="col-md-2"></div>
       <div class="col-md-4 form-wufoo">
