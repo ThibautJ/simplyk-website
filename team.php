@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-	<title>Beex Website</title>
+	<title>Simplyk Website</title>
 	<!--fonts-->
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300|Slabo+27px' rel='stylesheet' type='text/css'>
 
@@ -84,44 +84,44 @@
 					</div>
 				</div>
 			</div>
-			<div class="space"></div>
-			<div class="row">
+		</div>
+		<div class="space"></div>
+		<div class="row">
 			<div class="col-sm-6 col-md-4">
-					<div class="panel panel-default panel-profile">
-						<div id="shayan-heading" class="panel-heading"></div>
-						<div class="panel-body text-center">
-							<img src="images/shayan.jpg" class="img-responsive center-block img-portrait">
-							<div class="caption">
-								<h3>Shayan</h3>
-								<p>Co-founder</p>
-								<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
-							</div>
+				<div class="panel panel-default panel-profile">
+					<div id="shayan-heading" class="panel-heading"></div>
+					<div class="panel-body text-center">
+						<img src="images/shayan.jpg" class="img-responsive center-block img-portrait">
+						<div class="caption">
+							<h3>Shayan</h3>
+							<p>Business Development</p>
+							<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-4">
-					<div class="panel panel-default panel-profile">
-						<div id="nivit-heading" class="panel-heading"></div>
-						<div class="panel-body text-center">
-							<img src="images/nivit.jpg" class="img-responsive center-block img-portrait">
-							<div class="caption">
-								<h3>Nivit</h3>
-								<p>Designer</p>
-								<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
-							</div>
+			</div>
+			<div class="col-sm-6 col-md-4">
+				<div class="panel panel-default panel-profile">
+					<div id="nivit-heading" class="panel-heading"></div>
+					<div class="panel-body text-center">
+						<img src="images/nivit.jpg" class="img-responsive center-block img-portrait">
+						<div class="caption">
+							<h3>Nivit</h3>
+							<p>Product Designer</p>
+							<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-4">
-					<div class="panel panel-default panel-profile">
-						<div id="alex-heading" class="panel-heading"></div>
-						<div class="panel-body text-center">
-							<img src="images/alex.jpg" class="img-responsive center-block img-portrait">
-							<div class="caption">
-								<h3>Alex</h3>
-								<p>On ne le connait pas</p>
-								<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
-							</div>
+			</div>
+			<div class="col-sm-6 col-md-4">
+				<div class="panel panel-default panel-profile">
+					<div id="alex-heading" class="panel-heading"></div>
+					<div class="panel-body text-center">
+						<img src="images/alex.jpg" class="img-responsive center-block img-portrait">
+						<div class="caption">
+							<h3>Alex</h3>
+							<p>On ne le connait pas</p>
+							<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
 						</div>
 					</div>
 				</div>
