@@ -57,6 +57,10 @@
 	font-family: 'Open Sans', 'Slabo 27px', sans-serif, georgia, 'Helvetica Neue', Helvetica, Arial, serif;
 }
 
+.space{
+	height: 100px;
+}
+
 
 #first-section{
 	height: 650px;
@@ -294,6 +298,7 @@
 
 .equipe{
 	padding-bottom: 150px;
+	background-color: #E9EAEA;
 }
 
 .thumbnail{
@@ -306,8 +311,8 @@
 }
 
 .panel-profile{
-	margin-right: 10px;
-	margin-left: 10px;
+	margin-right: 30px;
+	margin-left: 30px;
 }
 
 .panel-profile .panel-heading{
@@ -324,7 +329,15 @@
 }
 
 #alix-heading{
-	background-image: url("images/5H.jpg");
+	background-image: url("images/pencil.jpg");
+}
+
+#nivit-heading{
+	background-image: url("images/windows.jpg");
+}
+
+#shayan-heading{
+	background-image: url("images/clouds.jpg");
 }
 
 #francois-heading{

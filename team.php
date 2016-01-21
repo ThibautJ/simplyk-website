@@ -45,7 +45,7 @@
 	<div class="container-fluid equipe">
 		<h3 class="sous-titre text-center">L'équipe</h3>
 		<div class="row">
-			<div class="col-sm-6 col-md-3">
+			<div class="col-sm-6 col-md-4">
 				<div class="panel panel-default panel-profile">
 					<div id="francois-heading" class="panel-heading"></div>
 					<div class="panel-body text-center">
@@ -58,20 +58,20 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-6 col-md-3">
+			<div class="col-sm-6 col-md-4">
 				<div class="panel panel-default panel-profile">
-					<div id="alex-heading" class="panel-heading"></div>
+					<div id="alix-heading" class="panel-heading"></div>
 					<div class="panel-body text-center">
-						<img src="images/alex.jpg" class="img-responsive center-block img-portrait">
+						<img src="images/alix.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
-							<h3>Alex</h3>
+							<h3>Alix</h3>
 							<p>Co-founder</p>
 							<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-6 col-md-3">
+			<div class="col-sm-6 col-md-4">
 				<div class="panel panel-default panel-profile">
 					<div id="thibaut-heading" class="panel-heading"></div>
 					<div class="panel-body text-center">
@@ -84,15 +84,44 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-6 col-md-3">
-				<div class="panel panel-default panel-profile">
-					<div id="alix-heading" class="panel-heading"></div>
-					<div class="panel-body text-center">
-						<img src="images/alix.jpg" class="img-responsive center-block img-portrait">
-						<div class="caption">
-							<h3>Alix</h3>
-							<p>Co-founder</p>
-							<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
+			<div class="space"></div>
+			<div class="row">
+			<div class="col-sm-6 col-md-4">
+					<div class="panel panel-default panel-profile">
+						<div id="shayan-heading" class="panel-heading"></div>
+						<div class="panel-body text-center">
+							<img src="images/shayan.jpg" class="img-responsive center-block img-portrait">
+							<div class="caption">
+								<h3>Shayan</h3>
+								<p>Co-founder</p>
+								<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="panel panel-default panel-profile">
+						<div id="nivit-heading" class="panel-heading"></div>
+						<div class="panel-body text-center">
+							<img src="images/nivit.jpg" class="img-responsive center-block img-portrait">
+							<div class="caption">
+								<h3>Nivit</h3>
+								<p>Designer</p>
+								<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="panel panel-default panel-profile">
+						<div id="alex-heading" class="panel-heading"></div>
+						<div class="panel-body text-center">
+							<img src="images/alex.jpg" class="img-responsive center-block img-portrait">
+							<div class="caption">
+								<h3>Alex</h3>
+								<p>On ne le connait pas</p>
+								<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
+							</div>
 						</div>
 					</div>
 				</div>

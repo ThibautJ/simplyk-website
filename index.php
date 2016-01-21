@@ -58,19 +58,21 @@
       <div class="col-md-2"></div>
     </div>
     <h1 class="text-center" id="vision">Construisons une société engagée dès maintenant</h1>
-    <h4 class="text-center" id="mission">Mettons en relation les organismes et les bonnes volontés</h4>
+    <h4 class="text-center" id="mission"></h4>
   </div>
 
   <div id="description-section" class="container-fluid section">
-    <h3 class="sous-titre text-center" id="titre-description-section">Que tu sois un citoyen ou un organisme</h3>
-    <h6 class="sous-titre2 text-center">Trouve ce dont tu as besoin</h6>
+    <h3 class="sous-titre text-center" id="titre-description-section">Citoyen ou Organisme</h3>
+    <h6 class="sous-titre2 text-center">Simplyk donne un nouvel élan à l'engagement citoyen en connectant les bonnes volontés</h6>
     <div class="text-center">
       <div class="btn-group"role="group" data-toggle="buttons" aria-label="...">
         <label id="citoyen-button-description" class="btn btn-default active btn-description">
-          <input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk  icon-user"></i>   Citoyen
+          <input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk  icon-user"></i>
+          Citoyen
         </label>
         <label id="organisme-button-description" class="btn btn-default btn-description">
-          <input type="radio" name="options" autocomplete="off"><i class="icon icon-sk icon-university"></i>   Organisme
+          <input type="radio" name="options" autocomplete="off"><i class="icon icon-sk icon-university"></i>
+          Organisme
         </label>
       </div>
     </div>
@@ -83,7 +85,7 @@
       </div>
     </div>
     <div class="text-center">
-      <button id="citoyen-register" class="btn btn-warning">S'enregistrer</button>
+      <button id="citoyen-register" class="btn btn-warning">Inscris toi</button>
     </div>
   </div>
 
@@ -128,7 +130,7 @@
     <div class="row">
       <div class="col-md-2"></div>
       <div class="col-md-8">
-        <div class="center-block"><iframe width="560" height="315" align="middle" class="center-block" src="https://www.youtube.com/embed/GgUCo700JUw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>
+        <div class="center-block"><iframe width="560" height="315" align="middle" class="center-block thumbnail" src="https://www.youtube.com/embed/GgUCo700JUw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>
       </div>
       <div class="col-md-2"></div>
     </div>
