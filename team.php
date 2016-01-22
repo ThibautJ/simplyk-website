@@ -14,6 +14,10 @@
 	<link href="style.css" type="text/css" rel="stylesheet">
 	<link rel="stylesheet" href="font-awesome-4.5.0/css/font-awesome.min.css">
 
+	<!-- octicons/fonticons -->
+	<script src="https://use.fonticons.com/a977a97f.js"></script>
+	<link rel="stylesheet" href="/octicons/octicons.css">
+
 	<!-- favicon -->
 	<link rel="shortcut icon" type="image/x-icon" href="favicon/favicon.ico">
 	<link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-touch-icon-57x57.png">
@@ -53,7 +57,7 @@
 						<div class="caption">
 							<h3>Francois</h3>
 							<p>CEO</p>
-							<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
+							<p><a href="mailto:thibaut@simplyk.org" class="btn btn-primary" role="contact">Contact</a></p>
 						</div>
 					</div>
 				</div>

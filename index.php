@@ -58,7 +58,7 @@
       <div class="col-md-2"></div>
     </div>
     <h1 class="text-center" id="vision">Construisons une société engagée dès maintenant</h1>
-    <h4 class="text-center" id="mission"></h4>
+    <h4 class="text-center" id="mission">Tissons les liens d'un monde solidaire</h4>
   </div>
 
   <div id="description-section" class="container-fluid section">
@@ -78,24 +78,24 @@
     </div>
     <div id="description-list" class="container-fluid">
       <div class="row">
-        <div class="col-sm-3 text-sk block-text"><i class="icon icon-sk icon-hand-o-up"></i><b>Missions catégorisées</b> La catégorisation de nos missions te permet de choisir une activité selon que tu ais envie de faire du social, du sport ou de l'évènementiel par exemple.</div>
-        <div class="col-sm-3 text-sk block-text"><i class="icon icon-sk icon-map-o"></i><b>Carte interactive</b> Grâce à notre carte interactive et à notre système de mission géolocalisée, trouve une mission près de chez toi ou n'importe où tu le désires.</div>
-        <div class="col-sm-3 text-sk block-text"><i class="icon icon-sk icon-users"></i><b>Invite tes amis</b> Si tu ne te sens pas de venir seul, franchis le pas en venant avec des amis à toi et trouve des missions pour plusieurs. </div>
-        <div class="col-sm-3 text-sk block-text"><i class="icon icon-sk icon-calendar-check-o"></i><b>Filtre temporel</b> Trouve une mission quand tu le désires, en prévoyance ou pour le dernier moment grâce à notre filtre temporel de recherche de missions. </div>
+        <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-hand-o-up"></i><b>Trouve ta mission</b> Des filtres pour faciliter ta recherche de mission à proximité, selon tes disponibilités, tes centres d’intérêt et ta géolocalisation.</div>
+        <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-map-o"></i><b>Même si tu n’as que quelques heures</b> Plus question de manquer une occasion de s’impliquer, que ce soit ponctuellement ou régulièrement.</div>
+        <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-users"></i><b>En étant bien entouré</b> Invite tes amis à participer à tes missions. Parce que plus on est de fous, plus on a de fun et d’impact. </div>
       </div>
     </div>
     <div class="text-center">
-      <button id="citoyen-register" class="btn btn-warning">Inscris toi</button>
+      <button id="citoyen-register" class="btn btn-warning">Inscris-toi !</button>
     </div>
   </div>
 
-  <div id="partners-section" class="section">
+  <div id="partners-section" class="section  container-fluid">
     <h3 class="sous-titre text-center">Nos partenaires</h3>
     <div id="partners-row" class="row">
-      <div class="col-md-3 center-block img-partners"><a href="http://d3center.ca/"><img src="http://d3center.ca/wp-content/uploads/2015/06/District3-Innovation-Center.png" class="img-responsive center-block"></a></div>
-      <div class="col-md-3 center-block img-partners"><a href="http://cabm.net/en"><img id="cabm" src="https://pbs.twimg.com/profile_images/593854999202955264/xvNlID33.jpg" class="img-responsive center-block"></a></div>
-      <div class="col-md-3 center-block img-partners"><a href="http://volunteerwica.com/accueuil/"><img src="http://volunteerwica.com/wp-content/themes/bhinneka-child/img/logofr.png" class="img-responsive center-block"></a></div>
-      <div class="col-md-3 center-block img-partners"><a href="https://www.concordia.ca/"><img src="http://5days.ca/concordia/wp-content/uploads/sites/25/2014/03/Concordia_Logo2.png" class="img-responsive center-block"></a></div>
+      <div class="col-md-2"></div>
+      <div class="col-md-4 center-block img-partners"><a href="http://d3center.ca/"><img src="http://d3center.ca/wp-content/uploads/2015/06/District3-Innovation-Center.png" class="img-responsive center-block"></a></div>
+      <div class="col-md-4 center-block img-partners"><a href="http://volunteerwica.com/accueuil/"><img src="http://volunteerwica.com/wp-content/themes/bhinneka-child/img/logofr.png" class="img-responsive center-block"></a></div>
+      <div class="col-md-2"></div>
+      <!--<div class="col-md-3 center-block img-partners"><a href="https://www.concordia.ca/"><img src="http://5days.ca/concordia/wp-content/uploads/sites/25/2014/03/Concordia_Logo2.png" class="img-responsive center-block"></a></div>-->
     </div>
   </div>
 
@@ -125,7 +125,7 @@
   </div>
 
 
-  <div id="video-section" class="section">
+  <!--<div id="video-section" class="section">
     <h3 class="sous-titre text-center">Vidéo de présentation</h3>
     <div class="row">
       <div class="col-md-2"></div>
@@ -134,7 +134,7 @@
       </div>
       <div class="col-md-2"></div>
     </div>
-  </div>
+  </div>-->
 
   <?php include("footer.php"); ?>
 
