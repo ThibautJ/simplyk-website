@@ -10,8 +10,8 @@
     SITE EN CONSTRUCTION
   </div>
   <div class="col-md-6 text-right" id="suivez">
-    <!--<p>Suivez-nous</p>
-    <a href=""><i class="icon icon-2x icon-sk icon-sk-white icon-facebook-official"></i></a>
-    <a href=""><i class="icon icon-2x icon-sk icon-sk-white icon-instagram"></i></a>-->
+    <p>SUIVEZ-NOUS</p>
+    <a href="https://www.facebook.com/simplykMTL/?fref=ts"><i class="icon icon-2x icon-sk icon-sk-white icon-facebook-official"></i></a>
+    <!--<a href=""><i class="icon icon-2x icon-sk icon-sk-white icon-instagram"></i></a>-->
   </div>
 </div>

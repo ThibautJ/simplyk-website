@@ -49,67 +49,91 @@
 <body>
   <?php include("navbar.php"); ?>
 
-  <div id="first-section" class="section">
+  <div id="first-section" class="section container-fluid">
     <div class="row">
-      <div class="col-md-2"></div>
-      <div id="logo" class="col-md-8">
+      <div id="logo" class="col-md-8 col-md-offset-2">
         <img align="middle" src="images/simplyk.png">
       </div>
-      <div class="col-md-2"></div>
     </div>
-    <h1 class="text-center" id="vision">Construisons une société engagée dès maintenant</h1>
-    <h4 class="text-center" id="mission">Tissons les liens d'un monde solidaire</h4>
+    <div class="row">
+      <div class="col-md-12">
+        <h1 class="text-center" id="vision">Construisons une société engagée dès maintenant</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+        <h4 class="text-center" id="mission">Tissons les liens d'un monde solidaire</h4>
+      </div>
+    </div>
+    
   </div>
 
   <div id="description-section" class="container-fluid section">
-    <h3 class="sous-titre text-center" id="titre-description-section">Citoyen ou Organisme</h3>
-    <h6 class="sous-titre2 text-center">Simplyk donne un nouvel élan à l'engagement citoyen en connectant les bonnes volontés</h6>
-    <div class="text-center">
-      <div class="btn-group"role="group" data-toggle="buttons" aria-label="...">
-        <label id="citoyen-button-description" class="btn btn-default active btn-description">
-          <input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk  icon-user"></i>
-          Citoyen
-        </label>
-        <label id="organisme-button-description" class="btn btn-default btn-description">
-          <input type="radio" name="options" autocomplete="off"><i class="icon icon-sk icon-university"></i>
-          Organisme
-        </label>
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3">
+        <h3 class="sous-titre text-center" id="titre-description-section">Citoyen ou Organisme</h3>
       </div>
     </div>
-    <div id="description-list" class="container-fluid">
-      <div class="row">
-        <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-hand-o-up"></i><b>Trouve ta mission</b> Des filtres pour faciliter ta recherche de mission à proximité, selon tes disponibilités, tes centres d’intérêt et ta géolocalisation.</div>
-        <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-map-o"></i><b>Même si tu n’as que quelques heures</b> Plus question de manquer une occasion de s’impliquer, que ce soit ponctuellement ou régulièrement.</div>
-        <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-users"></i><b>En étant bien entouré</b> Invite tes amis à participer à tes missions. Parce que plus on est de fous, plus on a de fun et d’impact. </div>
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+        <h6 class="sous-titre2 text-center">Simplyk donne un nouvel élan à l'engagement citoyen en connectant les bonnes volontés</h6>
       </div>
     </div>
-    <div class="text-center">
-      <button id="citoyen-register" class="btn btn-warning">Inscris-toi !</button>
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3 text-center">
+        <div class="btn-group"role="group" data-toggle="buttons" aria-label="...">
+          <label id="citoyen-button-description" class="btn btn-default active btn-description">
+            <input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk  icon-user"></i>
+            Citoyen
+          </label>
+          <label id="organisme-button-description" class="btn btn-default btn-description">
+            <input type="radio" name="options" autocomplete="off"><i class="icon icon-sk icon-university"></i>
+            Organisme
+          </label>
+        </div>
+      </div>
+    </div>
+    <div id="description-list" class="row">
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-hand-o-up"></i><b>Trouve ta mission</b> Des filtres pour faciliter ta recherche de mission à proximité, selon tes disponibilités, tes centres d’intérêt et ta géolocalisation.</div>
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-map-o"></i><b>Même si tu n’as que quelques heures</b> Plus question de manquer une occasion de s’impliquer, que ce soit ponctuellement ou régulièrement.</div>
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-users"></i><b>En étant bien entouré</b> Invite tes amis à participer à tes missions. Parce que plus on est de fous, plus on a de fun et d’impact. </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-md-offset-4 text-center">
+        <button id="citoyen-register" class="btn btn-warning">Inscris-toi !</button>
+      </div>
     </div>
   </div>
 
-  <div id="partners-section" class="section  container-fluid">
-    <h3 class="sous-titre text-center">Nos partenaires</h3>
-    <div id="partners-row" class="row">
-      <div class="col-md-2"></div>
+  <div id="partners-section" class="section container-fluid">
+    <div class="row">
+      <div class="col-md-4 col-md-offset-4 text-center">
+        <h3 class="sous-titre text-center">Nos partenaires</h3>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-md-4 center-block img-partners"><a href="http://d3center.ca/"><img src="http://d3center.ca/wp-content/uploads/2015/06/District3-Innovation-Center.png" class="img-responsive center-block"></a></div>
+      <div class="col-md-4 center-block img-partners"><a href="http://cabm.net/en"><img src="https://pbs.twimg.com/profile_images/593854999202955264/xvNlID33.jpg" class="img-responsive center-block"></a></div>
       <div class="col-md-4 center-block img-partners"><a href="http://volunteerwica.com/accueuil/"><img src="http://volunteerwica.com/wp-content/themes/bhinneka-child/img/logofr.png" class="img-responsive center-block"></a></div>
-      <div class="col-md-2"></div>
       <!--<div class="col-md-3 center-block img-partners"><a href="https://www.concordia.ca/"><img src="http://5days.ca/concordia/wp-content/uploads/sites/25/2014/03/Concordia_Logo2.png" class="img-responsive center-block"></a></div>-->
     </div>
   </div>
 
 
-  <div id="register-section" class="section">
-    <h3 class="sous-titre text-center">Tiens-toi au courant de l'avancée de notre projet !</h3>
+  <div id="register-section" class="section container-fluid">
     <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-4 loupe center-block">
-        <h3>Des missions et des bénévoles à portée de main sur notre carte interactive</h3>
-        <img id="loupe" src="images/map-platform.png" class="img-responsive img-thumbnail">
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <h3 class="sous-titre text-center">Tiens-toi au courant de l'avancée de notre projet !</h3>
       </div>
-      <div class="col-md-2"></div>
-      <div class="col-md-4 form-wufoo">
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-md-offset-1">
+        <div class="center-block loupe">
+          <h3>Des missions et des bénévoles à portée de main sur notre carte interactive</h3>
+          <img id="loupe" src="images/map-platform.png" class="img-responsive img-thumbnail">
+        </div>
+      </div>
+      <div class="col-md-4 col-md-offset-2 form-wufoo">
         <div class="btn-group btn-group-justified" id="btn-group-register" role="group" data-toggle="buttons" aria-label="...">
           <label id="citoyen-button" class="btn btn-default active">
             <input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk  icon-user"></i>   Citoyen
@@ -120,7 +144,6 @@
         </div>
         <div id="php-form"><?php include("form-cit.php"); ?></div>
       </div>
-      <div class="col-md-1"></div>
     </div>
   </div>
 

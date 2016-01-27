@@ -37,6 +37,7 @@
 
 .section{
 	padding-top: 40px;
+	padding-bottom: 40px;
 }
 
 .text-sk{
@@ -63,7 +64,7 @@
 
 
 #first-section{
-	height: 650px;
+	padding-bottom: 120px;
 	background-image: url("images/70H.jpg");
 	background-attachment: fixed;
 	background-size: cover;
@@ -98,7 +99,6 @@
 }
 
 #description-section{
-	height: 600px;
 	background-color: white;
 	background-size: cover;
 	border-top: 1px solid #a1a1a1;
@@ -213,20 +213,19 @@
 	border-top: 1px solid #c1c1c1;
 }
 
-#cabm{
-	width: 60%;
-	margin-top: 5%;
-}
 
 .img-partners{
-	height: 200px;
+	height: 20vh;
 	margin-bottom: 100px;
 }
 
 .img-partners img{
+	max-height: 80%;
+	max-width: 80%;
 	vertical-align: middle;
 	margin-top: 23%;
 	float: none;
+	margin-bottom: 100px;
 }
 
 .img-partners img:hover{

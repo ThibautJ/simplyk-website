@@ -47,7 +47,7 @@
 	<?php include("navbar.php"); ?>
 
 	<div class="container-fluid equipe">
-		<h3 class="sous-titre text-center">L'équipe</h3>
+		<h3 class="sous-titre text-center">Team</h3>
 		<div class="row">
 			<div class="col-sm-6 col-md-4">
 				<div class="panel panel-default panel-profile">
@@ -57,7 +57,6 @@
 						<div class="caption">
 							<h3>Francois</h3>
 							<p>CEO</p>
-							<p><a href="mailto:thibaut@simplyk.org" class="btn btn-primary" role="contact">Contact</a></p>
 						</div>
 					</div>
 				</div>
@@ -70,7 +69,6 @@
 						<div class="caption">
 							<h3>Alix</h3>
 							<p>Co-founder</p>
-							<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
 						</div>
 					</div>
 				</div>
@@ -83,7 +81,6 @@
 						<div class="caption">
 							<h3>Thibaut</h3>
 							<p>CTO</p>
-							<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
 						</div>
 					</div>
 				</div>
@@ -99,7 +96,6 @@
 						<div class="caption">
 							<h3>Shayan</h3>
 							<p>Business Development</p>
-							<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
 						</div>
 					</div>
 				</div>
@@ -112,7 +108,6 @@
 						<div class="caption">
 							<h3>Nivit</h3>
 							<p>Product Designer</p>
-							<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
 						</div>
 					</div>
 				</div>
@@ -124,8 +119,7 @@
 						<img src="images/alex.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Alex</h3>
-							<p>On ne le connait pas</p>
-							<p><a href="#" class="btn btn-primary" role="contact">Contact</a></p>
+							<p>We don't know that guy</p>
 						</div>
 					</div>
 				</div>

@@ -6,6 +6,7 @@
 			</a>
 			<a href="index.php" class="navbar-brand">SIMPLYK <span class="label label-danger"> SITE EN CONSTRUCTION</span></a>
 		</li>
-		<li role="presentation" class="navbar-right space-right"><a href="#">EN-FR</a></li>
-		<li role="presentation" class="navbar-right"><a href="team.php">L'équipe</a></li>
+		<li role="presentation" class="navbar-right space-right"><a href="index_en.php">EN</a></li>
+		<li role="presentation" class="navbar-right space-right"><a href="index.php">FR</a></li>
+		<li role="presentation" class="navbar-right"><a href="team.php">Team</a></li>
 </ul>
