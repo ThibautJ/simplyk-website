@@ -91,6 +91,7 @@
 #mission {
 	font-size: 22px;
 	padding-top: 70px;
+	padding-bottom: 100px;
 	letter-spacing: +1px;
 	font-weight: thin;
 	text-shadow: 2px 1px 1px #362C30;
@@ -240,6 +241,11 @@
 	padding-top: 40px;
 	padding-bottom: 100px;
 	border-top: 1px solid #c1c1c1;
+}
+
+#map{
+	height: 90vh;
+	width: 100%;
 }
 
 #fourthpage iframe{
