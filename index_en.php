@@ -62,7 +62,7 @@
 		</div>
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
-				<h4 class="text-center" id="mission">Tissons les liens d'un monde solidaire</h4>
+				<h4 class="text-center" id="mission"></h4>
 			</div>
 		</div>
 	</div>

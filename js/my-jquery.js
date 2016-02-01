@@ -7,7 +7,7 @@ $(function() {
 	//Appui sur le bouton de description organisme
 	$('#organisme-button-description').click(function(){
 		var enbool = false;
-		if (window.location.pathname==("/tests/index_en.php"||"/index_en.php")) {
+		if ((window.location.pathname=="/tests/index_en.php") || (window.location.pathname=="/index_en.php")) {
 			enbool = true;
 		} else{
 			enbool = false;
@@ -24,7 +24,7 @@ $(function() {
 	//Appui sur le bouton de description citoyen
 	$('#citoyen-button-description').click(function(){
 		var enbool = false;
-		if (window.location.pathname==("/tests/index_en.php"||"/index_en.php")) {
+		if ((window.location.pathname=="/tests/index_en.php") || (window.location.pathname=="/index_en.php")) {
 			enbool = true;
 		} else{
 			enbool = false;
