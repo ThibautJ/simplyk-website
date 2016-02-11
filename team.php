@@ -12,11 +12,11 @@
 	<!-- Bootstrap -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="style.css" type="text/css" rel="stylesheet">
-	<link rel="stylesheet" href="font-awesome-4.5.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
 	<!-- octicons/fonticons -->
 	<script src="https://use.fonticons.com/a977a97f.js"></script>
-	<link rel="stylesheet" href="/octicons/octicons.css">
+	<!--<link rel="stylesheet" href="/octicons/octicons.css">-->
 
 	<!-- favicon -->
 	<link rel="shortcut icon" type="image/x-icon" href="favicon/favicon.ico">
@@ -44,7 +44,18 @@
 </head>
 
 <body>
-	<?php include("navbar.php"); ?>
+	<ul class="nav nav-tabs" id="nav-me">
+		<li></li>
+		<li role="presentation">
+			<a class="navbar-brand" href="index.php">
+				<img alt="Brand" src="images/pereNoelBleu.png">
+			</a>
+			<a href="index.php" class="navbar-brand">SIMPLYK <span class="label label-danger"> SITE EN CONSTRUCTION</span></a>
+		</li>
+		<li role="presentation" class="navbar-right space-right"><a href="index_en.php">EN</a></li>
+		<li role="presentation" class="navbar-right space-right"><a href="index.php">FR</a></li>
+		<li role="presentation" class="navbar-right"><a href="team.php">Team</a></li>
+	</ul>
 
 	<div class="container-fluid equipe">
 		<h3 class="sous-titre text-center">Team</h3>
@@ -128,19 +139,35 @@
 	</div>
 
 
-	<?php include("footer.php"); ?>
+	<div id="footer" class="container">
+		<div class="col-md-1"></div>
+		<div class="col-md-1">
+			<!--<p>Crédits :</p>-->
+		</div>
+		<div class="col-md-4">
+    <!--<p>Volunteer by Ryan Beck from the Noun Project</p>
+    <p>Heart by Veronika Geertsema König from the Noun Project</p>
+    <p>Search by Jack NUMBER from the Noun Project</p>-->
+    SITE EN CONSTRUCTION
+</div>
+<div class="col-md-6 text-right" id="suivez">
+	<p>SUIVEZ-NOUS</p>
+	<a href="https://www.facebook.com/simplykMTL/?fref=ts"><i class="icon icon-2x icon-sk icon-sk-white icon-facebook-official"></i></a>
+	<!--<a href=""><i class="icon icon-2x icon-sk icon-sk-white icon-instagram"></i></a>-->
+</div>
+</div>
 
-	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-	<!-- Include all compiled plugins (below), or include individual files as needed -->
-	<script src="js/bootstrap.min.js"></script>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
 </body>
 
 <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	})(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
 
 	ga('create', 'UA-71659502-1', 'auto');
 	ga('send', 'pageview');

@@ -170,6 +170,10 @@
 	margin-bottom: 10px;
 }
 
+.txt {
+	font-family: 'Open Sans', 'Slabo 27px', sans-serif, georgia, 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
 .panel-title{
 	background-color: #7792FF;
 }
@@ -188,6 +192,25 @@
 	background: #1A627A;
 }
 
+.form-correction {
+	padding-left: 0px;
+}
+
+#mc-embedded-subscribe{
+    color: #fff !important;
+    background-color: #f0ad4e !important;
+    border-color: #eea236 !important;
+    margin-top: 30px !important;
+}
+
+#mc-embedded-subscribe input{
+}
+
+
+#mc-embedded-subscribe-form{
+	padding-left: 0px;
+}
+
 #footer{
 	background-color: #000000;
 	margin-bottom: 0px;
@@ -199,7 +222,6 @@
 }
 
 #register-section{
-	height: 700px;
 	background-color: #ffffff;
 	background-size: cover;
 	width: 100%;
@@ -209,7 +231,7 @@
 }
 
 #partners-section{
-	background-color: #E9EAEA;
+	background-color: #dfdfdf;
 	background-size: cover;
 	border-top: 1px solid #c1c1c1;
 }
@@ -253,6 +275,7 @@
 
 #btn-group-register{
 	padding-bottom: 10px;
+	padding-top: 25px;
 }
 
 .btn-description{
