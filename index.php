@@ -113,7 +113,7 @@
     </div>
     <div id="description-list" class="row">
       <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-hand-o-up"></i><b>Trouve ta mission</b> Des filtres pour faciliter ta recherche de mission à proximité, selon tes disponibilités, tes centres d’intérêt et ta géolocalisation.</div>
-      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-map-o"></i><b>Même si tu n’as que quelques heures</b> Plus question de manquer une occasion de s’impliquer, que ce soit ponctuellement ou régulièrement.</div>
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-calendar-check-o"></i><b>Même si tu n’as que quelques heures</b> Plus question de manquer une occasion de s’impliquer, que ce soit ponctuellement ou régulièrement.</div>
       <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-users"></i><b>En étant bien entouré</b> Invite tes amis à participer à tes missions. Parce que plus on est de fous, plus on a de fun et d’impact. </div>
     </div>
     <div class="row">
