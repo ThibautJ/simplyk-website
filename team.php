@@ -48,7 +48,7 @@
 		<li></li>
 		<li role="presentation">
 			<a class="navbar-brand" href="index.php">
-				<img alt="Brand" src="images/pereNoelBleu.png">
+				<img alt="Brand" src="images/simplyk-egg.png">
 			</a>
 			<a href="index.php" class="navbar-brand">SIMPLYK <span class="label label-danger"> SITE EN CONSTRUCTION</span></a>
 		</li>
@@ -127,10 +127,10 @@
 				<div class="panel panel-default panel-profile">
 					<div id="alex-heading" class="panel-heading"></div>
 					<div class="panel-body text-center">
-						<img src="images/alex.jpg" class="img-responsive center-block img-portrait">
+						<img src="images/leo.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
-							<h3>Alex</h3>
-							<p>We don't know that guy</p>
+							<h3>Léopoldine</h3>
+							<p>Spokesperson</p>
 						</div>
 					</div>
 				</div>
@@ -153,6 +153,7 @@
 <div class="col-md-6 text-right" id="suivez">
 	<p>SUIVEZ-NOUS</p>
 	<a href="https://www.facebook.com/simplykMTL/?fref=ts"><i class="icon icon-2x icon-sk icon-sk-white icon-facebook-official"></i></a>
+    <a href="https://twitter.com/simplykMTL"><i class="icon icon-2x icon-sk icon-sk-white icon-twitter"></i></a>
 	<!--<a href=""><i class="icon icon-2x icon-sk icon-sk-white icon-instagram"></i></a>-->
 </div>
 </div>

@@ -55,7 +55,7 @@
 		<li></li>
 		<li role="presentation">
 			<a class="navbar-brand" href="index.php">
-				<img alt="Brand" src="images/pereNoelBleu.png">
+				<img alt="Brand" src="images/simplyk-egg.png">
 			</a>
 			<a href="index.php" class="navbar-brand">SIMPLYK <span class="label label-danger"> SITE EN CONSTRUCTION</span></a>
 		</li>
@@ -67,17 +67,12 @@
 	<div id="first-section" class="section container-fluid">
 		<div class="row">
 			<div id="logo" class="col-md-8 col-md-offset-2">
-				<img align="middle" src="images/simplyk.png">
+				<img align="middle" src="images/simplyk_log_text_v2.png">
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-12">
 				<h1 class="text-center" id="vision">Let’s build an engaged society right now </h1>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-10 col-md-offset-1">
-				<h4 class="text-center" id="mission"></h4>
 			</div>
 		</div>
 	</div>
@@ -143,11 +138,12 @@
 		<div class="row">
 			<div class="col-md-4 col-md-offset-1">
 				<div class="center-block loupe">
-					<h3>Missions and volunteers ready to be matched through our interactive map</h3>
+					<h3 class="titre3-black">Missions and volunteers ready to be matched through our interactive map</h3>
 					<img id="loupe" src="images/map-platform.png" class="img-responsive img-thumbnail">
 				</div>
 			</div>
 			<div class="col-md-4 col-md-offset-2 form-wufoo">
+				<h3 class="titre3-black">You are a ...</h3>
 				<div class="btn-group btn-group-justified" id="btn-group-register" role="group" data-toggle="buttons" aria-label="...">
 					<label id="citoyen-button" class="btn btn-default active">
 						<input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk  icon-user"></i>   Citizen
@@ -220,6 +216,7 @@
 <div class="col-md-6 text-right" id="suivez">
 	<p>SUIVEZ-NOUS</p>
 	<a href="https://www.facebook.com/simplykMTL/?fref=ts"><i class="icon icon-2x icon-sk icon-sk-white icon-facebook-official"></i></a>
+    <a href="https://twitter.com/simplykMTL"><i class="icon icon-2x icon-sk icon-sk-white icon-twitter"></i></a>
 	<!--<a href=""><i class="icon icon-2x icon-sk icon-sk-white icon-instagram"></i></a>-->
 </div>
 </div>

@@ -58,7 +58,7 @@
     <li></li>
     <li role="presentation">
       <a class="navbar-brand" href="index.php">
-        <img alt="Brand" src="images/pereNoelBleu.png">
+        <img alt="Brand" src="images/simplyk-egg.png">
       </a>
       <a href="index.php" class="navbar-brand">SIMPLYK <span class="label label-danger"> SITE EN CONSTRUCTION</span></a>
     </li>
@@ -70,17 +70,12 @@
   <div id="first-section" class="section container-fluid">
     <div class="row">
       <div id="logo" class="col-md-8 col-md-offset-2">
-        <img align="middle" src="images/simplyk.png">
+        <img align="middle" src="images/simplyk_log_text_v2.png">
       </div>
     </div>
     <div class="row">
       <div class="col-md-12">
         <h1 class="text-center" id="vision">Construisons une société engagée dès maintenant</h1>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-10 col-md-offset-1">
-        <h4 class="text-center" id="mission">Tissons les liens d'un monde solidaire</h4>
       </div>
     </div>
   </div>
@@ -112,9 +107,9 @@
       </div>
     </div>
     <div id="description-list" class="row">
-      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-hand-o-up"></i><b>Trouve ta mission</b> Des filtres pour faciliter ta recherche de mission à proximité, selon tes disponibilités, tes centres d’intérêt et ta géolocalisation.</div>
-      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-calendar-check-o"></i><b>Même si tu n’as que quelques heures</b> Plus question de manquer une occasion de s’impliquer, que ce soit ponctuellement ou régulièrement.</div>
-      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-users"></i><b>En étant bien entouré</b> Invite tes amis à participer à tes missions. Parce que plus on est de fous, plus on a de fun et d’impact. </div>
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-hand-o-up"></i><b>Trouve ta mission</b> <br> Des filtres pour faciliter ta recherche de mission à proximité, selon tes disponibilités, tes centres d’intérêt et ta géolocalisation.</div>
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-calendar-check-o"></i><b>Même si tu n’as que quelques heures</b> <br>Plus question de manquer une occasion de s’impliquer, que ce soit ponctuellement ou régulièrement.</div>
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-users"></i><b>En étant bien entouré</b><br> Invite tes amis à participer à tes missions. Parce que plus on est de fous, plus on a de fun et d’impact. </div>
     </div>
     <div class="row">
       <div class="col-md-4 col-md-offset-4 text-center">
@@ -148,11 +143,12 @@
     <div class="row">
       <div class="col-md-4 col-md-offset-1">
         <div class="center-block loupe">
-          <h3>Des missions et des bénévoles à portée de main sur notre carte interactive</h3>
+        <h3 class="titre3-black">Des missions et des bénévoles à portée de main sur notre carte interactive</h3>
           <img id="loupe" src="images/map-platform.png" class="img-responsive img-thumbnail">
         </div>
       </div>
       <div class="col-md-4 col-md-offset-2 form-wufoo">
+        <h3 class="titre3-black">Vous êtes un ...</h3>
         <div class="btn-group btn-group-justified" id="btn-group-register" role="group" data-toggle="buttons" aria-label="...">
           <label id="citoyen-button" class="btn btn-default active">
             <input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk  icon-user"></i>   Citoyen
@@ -227,6 +223,7 @@
   <div class="col-md-6 text-right" id="suivez">
     <p>SUIVEZ-NOUS</p>
     <a href="https://www.facebook.com/simplykMTL/?fref=ts"><i class="icon icon-2x icon-sk icon-sk-white icon-facebook-official"></i></a>
+    <a href="https://twitter.com/simplykMTL"><i class="icon icon-2x icon-sk icon-sk-white icon-twitter"></i></a>
     <!--<a href=""><i class="icon icon-2x icon-sk icon-sk-white icon-instagram"></i></a>-->
   </div>
 </div>
