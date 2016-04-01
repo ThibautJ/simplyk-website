@@ -1,4 +1,4 @@
-$(function() {
+jQuery(document).ready(function( $ ) {
 	var orgcit=1;//1 si citoyen est activé, 0 sinon
 	var citoyenButton = document.getElementById('citoyen-button');
 	var orgButton = document.getElementById('organisme-button');
@@ -41,14 +41,23 @@ $(function() {
 		
 	});
 
+
 	//Appui sur le bouton du formulaire organisme
 	$('#organisme-button').click(function(){
 		$('#php-form').html('<div id="mc_embed_signup"><form action="https://simplyk.us12.list-manage.com/subscribe/post?u=25d3c944f0b1b09c66068b2b8&amp;id=2e82928753" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-correction" target="_blank" novalidate><div id="mc_embed_signup_scroll"><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group"><label for="mce-EMAIL" class="txt">Email Address  <span class="asterisk">*</span></label><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"></div><div class="mc-field-group"><label for="mce-FNAME" class="txt">First Name </label><input type="text" value="" name="FNAME" class="" id="mce-FNAME"></div><div class="mc-field-group"><label for="mce-LNAME" class="txt">Last Name </label><input type="text" value="" name="LNAME" class="" id="mce-LNAME"></div><div class="mc-field-group"><label for="mce-MMERGE3" class="txt">Organism </label><input type="text" value="" name="MMERGE3" class="" id="mce-MMERGE3"></div><div id="mce-responses" class="clear"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_25d3c944f0b1b09c66068b2b8_63eac1bc9a" tabindex="-1" value=""></div><div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-warning"></div></div></form></div><script type="text/javascript" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]="EMAIL";ftypes[0]="email";fnames[1]="FNAME";ftypes[1]="text";fnames[2]="LNAME";ftypes[2]="text";fnames[3]="MMERGE3";ftypes[3]="text";}(jQuery));var $mcj = jQuery.noConflict(true);</script><!--End mc_embed_signup-->');
+		$('#organisme-button').removeClass('btn-default').addClass('btn-warning');
+		$('#citoyen-button').removeClass('btn-warning').addClass('btn-default');
+		$('.icon-user').css({color: 'black'});
+		$('.icon-university').css({color: 'white'});
 	});
 
 	//Appui sur le bouton du formulaire citoyen
 	$('#citoyen-button').click(function(){
 		$('#php-form').html('<!-- Begin MailChimp Signup Form --><div id="mc_embed_signup"><form action="https://simplyk.us12.list-manage.com/subscribe/post?u=25d3c944f0b1b09c66068b2b8&amp;id=2e82928753" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-correction" target="_blank" novalidate><div id="mc_embed_signup_scroll"><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group mct-field-group"><label for="mce-EMAIL" class="txt">Email Address  <span class="asterisk">*<br></span></label><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"></div><div class="mc-field-group mct-field-group"><label for="mce-FNAME" class="txt">First Name </label><input type="text" value="" name="FNAME" class="" id="mce-FNAME"></div><div class="mc-field-group mct-field-group"><label for="mce-LNAME" class="txt">Last Name </label><input type="text" value="" name="LNAME" class="" id="mce-LNAME"></div><div class="mc-field-group mct-field-group"><label for="mce-MMERGE3" class="txt">Ideas </label><input type="text" value="" name="MMERGE3" class="" id="mce-MMERGE3"></div><div id="mce-responses" class="clear"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_25d3c944f0b1b09c66068b2b8_2e82928753" tabindex="-1" value=""></div><div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-warning"></div></div></form></div>');
+		$('#citoyen-button').removeClass('btn-default').addClass('btn-warning');
+		$('#organisme-button').removeClass('btn-warning').addClass('btn-default');
+		$('.icon-user').css({color: 'white'});
+		$('.icon-university').css({color: 'black'});
 	});
 
 	//Appui sur le bouton inscris-toi

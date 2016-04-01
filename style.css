@@ -85,8 +85,8 @@
 	margin-top: 0px;
 	font-size: 55px;
 	font-weight: 500;
-	text-shadow: 4px 3px 0px #362C30;
 	font-family: 'Open Sans', sans-serif;
+	color: black;
 }
 
 #mission {
@@ -104,6 +104,7 @@
 	background-color: white;
 	background-size: cover;
 	border-top: 1px solid #a1a1a1;
+	height: 100%;
 }
 
 
@@ -113,7 +114,6 @@
 	font-weight: lighter;
 	letter-spacing: +1px;
 	color: #1A627A;
-	padding-bottom: 30px;
 }
 
 .sous-titre2{

@@ -77,35 +77,28 @@
 		</div>
 	</div>
 
-	<div id="description-section" class="container-fluid section">
+
+	<div id="description-section" class="section container-fluid">
+
 		<div class="row">
-			<div class="col-md-6 col-md-offset-3">
-				<h3 class="sous-titre text-center" id="titre-description-section">Citizen or organization</h3>
+			<div class="col-md-4">
+				<h3 class="sous-titre text-center" id="titre-description-section">As a citizen...</h3>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-md-10 col-md-offset-1">
-				<h6 class="sous-titre2 text-center">Simplyk gives a fresh impulse to citizen involvement connecting good wills</h6>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-6 col-md-offset-3 text-center">
-				<div class="btn-group"role="group" data-toggle="buttons" aria-label="...">
-					<label id="citoyen-button-description" class="btn btn-default active btn-description">
-						<input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk  icon-user"></i>
-						Citizen
-					</label>
-					<label id="organisme-button-description" class="btn btn-default btn-description">
-						<input type="radio" name="options" autocomplete="off"><i class="icon icon-sk icon-university"></i>
-						Organization
-					</label>
-				</div>
-			</div>
-		</div>
-		<div id="description-list" class="row">
+		<div class="description-list" class="row">
 			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-hand-o-up"></i><b>Find your mission</b> Filters to ease your mission research, according to your availabilities and interests (close to you).</div>
-			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-map-o"></i><b>Even if you have only a few hours</b> No more reason to miss an occasion to get involved, whether it is on a punctual or a regular basis.</div>
+			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-calendar-check-o"></i><b>Even if you have only a few hours</b> No more reason to miss an occasion to get involved, whether it is on a punctual or a regular basis.</div>
 			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-users"></i><b>Being in good company</b> Invite your friends to take part to your missions. Because the more, the merrier and the bigger the impact. </div>
+		</div>
+		<div class="row">
+			<div class="col-md-4 col-md-offset-8">
+				<h3 class="sous-titre text-center" id="titre-description-section">or as an organism...</h3>
+			</div>
+		</div>
+		<div class="description-list" class="row">
+			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-bullhorn"></i><b>Launch your call to action</b> Share your missions within a few clicks in a highly connected network.</div>
+			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-check"></i><b>With a customized research system</b> Specify the number of volunteers you need, as well as the skills you are looking for.</div>
+			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-comments"></i><b> Allowing more communication </b> Get easily in touch with  volunteers and do a follow-up with them.</div>
 		</div>
 		<div class="row">
 			<div class="col-md-4 col-md-offset-4 text-center">
@@ -145,11 +138,11 @@
 			<div class="col-md-4 col-md-offset-2 form-wufoo">
 				<h3 class="titre3-black">You are a ...</h3>
 				<div class="btn-group btn-group-justified" id="btn-group-register" role="group" data-toggle="buttons" aria-label="...">
-					<label id="citoyen-button" class="btn btn-default active">
-						<input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk  icon-user"></i>   Citizen
+					<label id="citoyen-button" class="btn btn-warning active">
+					<input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk icon-user"></i>   Citizen
 					</label>
 					<label id="organisme-button" class="btn btn-default">
-						<input type="radio" name="options" autocomplete="off"><i class="icon icon-sk icon-university"></i>   Organization
+						<input type="radio" name="options" autocomplete="off"><i class="icon icon-sk icon-university"></i>   Organism
 					</label>
 				</div>
 				<div id="php-form">
@@ -216,7 +209,7 @@
 <div class="col-md-6 text-right" id="suivez">
 	<p>SUIVEZ-NOUS</p>
 	<a href="https://www.facebook.com/simplykMTL/?fref=ts"><i class="icon icon-2x icon-sk icon-sk-white icon-facebook-official"></i></a>
-    <a href="https://twitter.com/simplykMTL"><i class="icon icon-2x icon-sk icon-sk-white icon-twitter"></i></a>
+	<a href="https://twitter.com/simplykMTL"><i class="icon icon-2x icon-sk icon-sk-white icon-twitter"></i></a>
 	<!--<a href=""><i class="icon icon-2x icon-sk icon-sk-white icon-instagram"></i></a>-->
 </div>
 </div>

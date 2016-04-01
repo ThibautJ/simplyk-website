@@ -23,6 +23,8 @@
     #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
   </style>
 
+  
+
 
 
   <!-- octicons/fonticons -->
@@ -81,35 +83,31 @@
   </div>
 
 
-  <div id="description-section" class="container-fluid section">
-    <div class="row">
-      <div class="col-md-6 col-md-offset-3">
-        <h3 class="sous-titre text-center" id="titre-description-section">Citoyen ou Organisme</h3>
-      </div>
-    </div>
-    <div class="row">
+  <div id="description-section" class="section container-fluid">
+    <!--<div class="row">
       <div class="col-md-10 col-md-offset-1">
-        <h6 class="sous-titre2 text-center">Simplyk donne un nouvel élan à l'engagement citoyen en connectant les bonnes volontés</h6>
+        <h6 class="sous-titre2 text-center">Simplyk donne un nouvel élan à l'engagement bénévole en connectant les bonnes volontés</h6>
       </div>
-    </div>
+    </div>-->
     <div class="row">
-      <div class="col-md-6 col-md-offset-3 text-center">
-        <div class="btn-group"role="group" data-toggle="buttons" aria-label="...">
-          <label id="citoyen-button-description" class="btn btn-default active btn-description">
-            <input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk  icon-user"></i>
-            Citoyen
-          </label>
-          <label id="organisme-button-description" class="btn btn-default btn-description">
-            <input type="radio" name="options" autocomplete="off"><i class="icon icon-sk icon-university"></i>
-            Organisme
-          </label>
-        </div>
+      <div class="col-md-4">
+        <h3 class="sous-titre text-center" id="titre-description-section">En tant que citoyen...</h3>
       </div>
     </div>
-    <div id="description-list" class="row">
+    <div class="description-list" class="row">
       <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-hand-o-up"></i><b>Trouve ta mission</b> <br> Des filtres pour faciliter ta recherche de mission à proximité, selon tes disponibilités, tes centres d’intérêt et ta géolocalisation.</div>
       <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-calendar-check-o"></i><b>Même si tu n’as que quelques heures</b> <br>Plus question de manquer une occasion de s’impliquer, que ce soit ponctuellement ou régulièrement.</div>
       <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-users"></i><b>En étant bien entouré</b><br> Invite tes amis à participer à tes missions. Parce que plus on est de fous, plus on a de fun et d’impact. </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-md-offset-8">
+        <h3 class="sous-titre text-center" id="titre-description-section">et en tant qu'organisme...</h3>
+      </div>
+    </div>
+    <div class="description-list" class="row">
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-bullhorn"></i><b>Lancez votre appel à l’action</b> Partagez vos missions en quelques clics sur un réseau ultra-connecté.</div>
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-check"></i><b>Avec un système de recherche personnalisé</b> Indiquez le nombre de bénévoles dont vous avez besoin, ainsi que les compétences que vous recherchez.</div>
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-comments"></i><b> Laissant place à plus de communication </b> Engagez facilement le contact avec vos bénévoles et faites le suivi avec eux. </div>
     </div>
     <div class="row">
       <div class="col-md-4 col-md-offset-4 text-center">
@@ -143,15 +141,15 @@
     <div class="row">
       <div class="col-md-4 col-md-offset-1">
         <div class="center-block loupe">
-        <h3 class="titre3-black">Des missions et des bénévoles à portée de main sur notre carte interactive</h3>
+          <h3 class="titre3-black">Des missions et des bénévoles à portée de main sur notre carte interactive</h3>
           <img id="loupe" src="images/map-platform.png" class="img-responsive img-thumbnail">
         </div>
       </div>
       <div class="col-md-4 col-md-offset-2 form-wufoo">
         <h3 class="titre3-black">Vous êtes un ...</h3>
         <div class="btn-group btn-group-justified" id="btn-group-register" role="group" data-toggle="buttons" aria-label="...">
-          <label id="citoyen-button" class="btn btn-default active">
-            <input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk  icon-user"></i>   Citoyen
+          <label id="citoyen-button" class="btn btn-warning active">
+            <input type="radio" name="options"  autocomplete="off" checked><i class="icon icon-sk icon-user"></i>   Citoyen
           </label>
           <label id="organisme-button" class="btn btn-default">
             <input type="radio" name="options" autocomplete="off"><i class="icon icon-sk icon-university"></i>   Organisme
