@@ -123,10 +123,10 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-md-4 center-block img-partners"><a href="http://d3center.ca/"><img src="http://d3center.ca/wp-content/uploads/2016/04/weblogo02-01.png" class="img-responsive center-block"></a></div>
-      <div class="col-md-4 center-block img-partners"><a href="http://cabm.net/en"><img src="https://pbs.twimg.com/profile_images/593854999202955264/xvNlID33.jpg" class="img-responsive center-block"></a></div>
-      <div class="col-md-4 center-block img-partners"><a href="http://volunteerwica.com/accueuil/"><img src="http://volunteerwica.com/wp-content/themes/bhinneka-child/img/logofr.png" class="img-responsive center-block"></a></div>
-      <!--<div class="col-md-3 center-block img-partners"><a href="https://www.concordia.ca/"><img src="http://5days.ca/concordia/wp-content/uploads/sites/25/2014/03/Concordia_Logo2.png" class="img-responsive center-block"></a></div>-->
+      <div class="col-md-3 center-block img-partners"><a href="http://d3center.ca/"><img src="http://d3center.ca/wp-content/uploads/2016/04/weblogo02-01.png" class="img-responsive center-block"></a></div>
+      <div class="col-md-3 center-block img-partners"><a href="http://cabm.net/en"><img src="https://pbs.twimg.com/profile_images/593854999202955264/xvNlID33.jpg" class="img-responsive center-block"></a></div>
+      <div class="col-md-3 center-block img-partners"><a href="http://volunteerwica.com/accueuil/"><img src="http://volunteerwica.com/wp-content/themes/bhinneka-child/img/logofr.png" class="img-responsive center-block"></a></div>
+      <div class="col-md-3 center-block img-partners"><a href="http://esplanademtl.org"><img src="http://www.esplanademtl.org/wp-content/uploads/2015/10/logo-_esplanade-e1444082587273.jpg" class="img-responsive center-block"></a></div>
     </div>
   </div>
 
