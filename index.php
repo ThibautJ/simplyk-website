@@ -104,9 +104,9 @@
       </div>
     </div>
     <div class="description-list" class="row">
-      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-bullhorn"></i><b>Lancez votre appel à l’action</b> Partagez vos missions en quelques clics sur un réseau ultra-connecté.</div>
-      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-check"></i><b>Avec un système de recherche personnalisé</b> Indiquez le nombre de bénévoles dont vous avez besoin, ainsi que les compétences que vous recherchez.</div>
-      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-comments"></i><b> Laissant place à plus de communication </b> Engagez facilement le contact avec vos bénévoles et faites le suivi avec eux. </div>
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-bullhorn"></i><b>Lancez votre appel à l’action</b><br> Partagez vos missions en quelques clics sur un réseau ultra-connecté.</div>
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-check"></i><b>Avec un système de recherche personnalisé</b><br> Indiquez le nombre de bénévoles dont vous avez besoin, ainsi que les compétences que vous recherchez.</div>
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-comments"></i><b> Laissant place à plus de communication </b><br> Engagez facilement le contact avec vos bénévoles et faites le suivi avec eux. </div>
     </div>
     <div class="row">
       <div class="col-md-4 col-md-offset-4 text-center">
