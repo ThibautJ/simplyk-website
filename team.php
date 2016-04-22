@@ -66,7 +66,7 @@
 						<img src="images/francois.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Francois</h3>
-							<p>CEO</p>
+							<p>Cofondateur et coordinateur de projet</p>
 						</div>
 					</div>
 				</div>
@@ -78,7 +78,7 @@
 						<img src="images/alix.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Alix</h3>
-							<p>Co-founder</p>
+							<p>Cofondatrice responsable des communications </p>
 						</div>
 					</div>
 				</div>
@@ -90,7 +90,7 @@
 						<img src="images/thibaut.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Thibaut</h3>
-							<p>CTO</p>
+							<p>Cofondateur et responsable technologie </p>
 						</div>
 					</div>
 				</div>
@@ -105,7 +105,7 @@
 						<img src="images/shayan.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Shayan</h3>
-							<p>Business Development</p>
+							<p>Expérience utilisateur</p>
 						</div>
 					</div>
 				</div>
@@ -117,7 +117,7 @@
 						<img src="images/nivit.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Nivit</h3>
-							<p>Product Designer</p>
+							<p>Graphiste </p>
 						</div>
 					</div>
 				</div>
@@ -129,7 +129,7 @@
 						<img src="images/leo.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Léopoldine</h3>
-							<p>Spokesperson</p>
+							<p>Porte-parole</p>
 						</div>
 					</div>
 				</div>

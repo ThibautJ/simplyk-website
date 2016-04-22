@@ -56,7 +56,7 @@
 			<a class="navbar-brand" href="index.php">
 				<img alt="Brand" src="images/simplyk-egg.png">
 			</a>
-			<a href="index.php" class="navbar-brand">SIMPLYK <span class="label label-danger"> SITE EN CONSTRUCTION</span></a>
+			<a href="index.php" class="navbar-brand">SIMPLYK <span class="label label-danger">WEBSITE IN PROGRESS</span></a>
 		</li>
 		<li role="presentation" class="navbar-right space-right"><a href="index_en.php">EN</a></li>
 		<li role="presentation" class="navbar-right space-right"><a href="index.php">FR</a></li>
@@ -85,9 +85,9 @@
 			</div>
 		</div>
 		<div class="description-list" class="row">
-			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-hand-o-up"></i><b>Find your mission</b> <br>Filters to ease your mission research, according to your availabilities and interests (close to you).</div>
-			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-calendar-check-o"></i><b>Even if you have only a few hours</b> <br> No more reason to miss an occasion to get involved, whether it is on a punctual or a regular basis.</div>
-			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-users"></i><b>Being in good company</b><br>Invite your friends to take part to your missions. Because the more, the merrier and the bigger the impact. </div>
+			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-hand-o-up"></i><b>Find an opportunity to get involved </b> <br>Filters will help you find volunteering opportunities according to your availabilities, location and interests.</div>
+			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-calendar-check-o"></i><b>Even if you have only a few hours</b> <br> No more reason to miss an opportunity to get involved, whether it is occasionally or on a regular basis.</div>
+			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-users"></i><b>Being in good company</b><br>Invite your friends to join you. Because the more, the merrier - and the bigger the impact is. </div>
 		</div>
 		<div class="row">
 			<div class="col-md-4 col-md-offset-8">
@@ -95,13 +95,13 @@
 			</div>
 		</div>
 		<div class="description-list" class="row">
-			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-bullhorn"></i><b>Launch your call to action</b><br> Share your missions within a few clicks in a highly connected network.</div>
+			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-bullhorn"></i><b>Launch your call to action</b><br> Share your volunteering opportunities within a few clicks in a highly connected network.</div>
 			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-check"></i><b>With a customized research system</b><br> Specify the number of volunteers you need, as well as the skills you are looking for.</div>
-			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-comments"></i><b> Allowing more communication </b><br> Get easily in touch with  volunteers and do a follow-up with them.</div>
+			<div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-comments"></i><b> Allowing more communication </b><br> Get easily in touch with volunteers and get their feedbacks.</div>
 		</div>
 		<div class="row">
 			<div class="col-md-4 col-md-offset-4 text-center">
-				<button id="citoyen-register" class="btn btn-warning">Register !</button>
+				<button id="citoyen-register" class="btn btn-warning">Register!</button>
 			</div>
 		</div>
 	</div>
@@ -124,13 +124,13 @@
 	<div id="register-section" class="section container-fluid">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2 text-center">
-				<h3 class="sous-titre text-center">Be up-to-date</h3>
+				<h3 class="sous-titre text-center">Our pilot project is coming soon, sign up to test it!</h3>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-4 col-md-offset-1">
 				<div class="center-block loupe">
-					<h3 class="titre3-black">Missions and volunteers ready to be matched through our interactive map</h3>
+					<h3 class="titre3-black">Organizations and volunteers ready to be matched through our interactive map</h3>
 					<img id="loupe" src="images/map-platform.png" class="img-responsive img-thumbnail">
 				</div>
 			</div>
@@ -203,10 +203,10 @@
     <!--<p>Volunteer by Ryan Beck from the Noun Project</p>
     <p>Heart by Veronika Geertsema König from the Noun Project</p>
     <p>Search by Jack NUMBER from the Noun Project</p>-->
-    SITE EN CONSTRUCTION
+    WEBSITE IN PROGRESS
 </div>
 <div class="col-md-6 text-right" id="suivez">
-	<p>SUIVEZ-NOUS</p>
+	<p>FOLLOW US</p>
 	<a href="https://www.facebook.com/simplykMTL/?fref=ts"><i class="icon icon-2x icon-sk icon-sk-white icon-facebook-official"></i></a>
 	<a href="https://twitter.com/simplykMTL"><i class="icon icon-2x icon-sk icon-sk-white icon-twitter"></i></a>
 	<!--<a href=""><i class="icon icon-2x icon-sk icon-sk-white icon-instagram"></i></a>-->
