@@ -105,12 +105,12 @@
     </div>
     <div class="description-list" class="row">
       <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-bullhorn"></i><b>Lancez votre appel à l’action</b><br> Partagez vos missions en quelques clics sur un réseau ultra-connecté.</div>
-      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-check"></i><b>Avec un système de recherche personnalisé</b><br> Indiquez le nombre de bénévoles dont vous avez besoin, ainsi que les compétences que vous recherchez.</div>
+      <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-check"></i><b>Avec un système de recherche simple</b><br> Indiquez le nombre de bénévoles dont vous avez besoin, ainsi que les compétences que vous recherchez.</div>
       <div class="col-sm-4 text-sk block-text"><i class="icon icon-sk icon-comments"></i><b> Laissant place à plus de communication </b><br> Engagez facilement le contact avec vos bénévoles et faites le suivi avec eux. </div>
     </div>
     <div class="row">
       <div class="col-md-4 col-md-offset-4 text-center">
-        <button id="citoyen-register" class="btn btn-warning">Inscris-toi !</button>
+        <button id="citoyen-register" class="btn btn-warning">Inscris-toi !</button><b> 
       </div>
     </div>
   </div>
@@ -134,13 +134,13 @@
   <div id="register-section" class="section container-fluid">
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h3 class="sous-titre text-center">Tiens-toi au courant de l'avancée de notre projet !</h3>
+        <h3 class="sous-titre text-center">Le projet pilote s’en vient, inscris toi vite pour le tester !</h3>
       </div>
     </div>
     <div class="row">
       <div class="col-md-4 col-md-offset-1">
         <div class="center-block loupe">
-          <h3 class="titre3-black">Des missions et des bénévoles à portée de main sur notre carte interactive</h3>
+          <h3 class="titre3-black">Des opportunités et des bénévoles à portée de main sur notre carte interactive</h3>
           <img id="loupe" src="images/map-platform.png" class="img-responsive img-thumbnail">
         </div>
       </div>
@@ -162,20 +162,20 @@
 
                 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
                 <div class="mc-field-group mct-field-group">
-                  <label for="mce-EMAIL" class="txt">Email Address  <span class="asterisk">*<br></span>
+                  <label for="mce-EMAIL" class="txt">Addresse courriel  <span class="asterisk">*<br></span>
                   </label>
                   <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
                 </div>
                 <div class="mc-field-group mct-field-group">
-                  <label for="mce-FNAME" class="txt">First Name </label>
+                  <label for="mce-FNAME" class="txt">Prénom </label>
                   <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
                 </div>
                 <div class="mc-field-group mct-field-group">
-                  <label for="mce-LNAME" class="txt">Last Name </label>
+                  <label for="mce-LNAME" class="txt">Nom </label>
                   <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
                 </div>
                 <div class="mc-field-group mct-field-group">
-                  <label for="mce-MMERGE3" class="txt">Ideas </label>
+                  <label for="mce-MMERGE3" class="txt">Tu as des commentaires ou idées à partager ?  </label>
                   <input type="text" value="" name="MMERGE3" class="" id="mce-MMERGE3">
                 </div>
                 <div id="mce-responses" class="clear">
