@@ -65,7 +65,7 @@
     </li>
     <li role="presentation" class="navbar-right space-right"><a href="index_en.php">EN</a></li>
     <li role="presentation" class="navbar-right space-right"><a href="index.php">FR</a></li>
-    <li role="presentation" class="navbar-right"><a href="team.php">Team</a></li>
+    <li role="presentation" class="navbar-right"><a href="team.php">Equipe</a></li>
   </ul>
 
   <div id="first-section" class="section container-fluid">
