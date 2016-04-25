@@ -79,6 +79,7 @@
 						<div class="caption">
 							<h3>Alix</h3>
 							<p>Cofondatrice et responsable des communications </p>
+
 						</div>
 					</div>
 				</div>
