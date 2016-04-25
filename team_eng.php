@@ -49,15 +49,15 @@
 			<a class="navbar-brand" href="index.php">
 				<img alt="Brand" src="images/simplyk-egg.png">
 			</a>
-			<a href="index.php" class="navbar-brand">SIMPLYK <span class="label label-danger"> SITE EN CONSTRUCTION</span></a>
+			<a href="index.php" class="navbar-brand">SIMPLYK <span class="label label-danger"> WEBSITE IN PROGRESS</span></a>
 		</li>
 		<li role="presentation" class="navbar-right space-right"><a href="team_eng.php">EN</a></li>
 		<li role="presentation" class="navbar-right space-right"><a href="team.php">FR</a></li>
-		<li role="presentation" class="navbar-right"><a href="team.php">Equipe</a></li>
+		<li role="presentation" class="navbar-right"><a href="team.php">Team</a></li>
 	</ul>
-
+	
 	<div class="container-fluid equipe">
-		<h3 class="sous-titre text-center">Equipe</h3>
+		<h3 class="sous-titre text-center">Team</h3>
 		<div class="row">
 			<div class="col-sm-6 col-md-4">
 				<div class="panel panel-default panel-profile">
@@ -66,7 +66,7 @@
 						<img src="images/francois.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Francois</h3>
-							<p>Cofondateur et coordinateur de projet</p>
+							<p>Cofounder and project coordinator</p>
 						</div>
 					</div>
 				</div>
@@ -78,8 +78,7 @@
 						<img src="images/alix.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Alix</h3>
-							<p>Cofondatrice et responsable des communications </p>
-
+							<p>Cofounder and director for communications</p>
 						</div>
 					</div>
 				</div>
@@ -91,7 +90,7 @@
 						<img src="images/thibaut.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Thibaut</h3>
-							<p>Cofondateur et responsable technologie </p>
+							<p>Cofounder and CTO </p>
 						</div>
 					</div>
 				</div>
@@ -106,7 +105,7 @@
 						<img src="images/shayan.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Shayan</h3>
-							<p>Expérience utilisateur</p>
+							<p>User experience</p>
 						</div>
 					</div>
 				</div>
@@ -118,7 +117,7 @@
 						<img src="images/nivit.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Nivit</h3>
-							<p>Graphiste </p>
+							<p>Graphist designer </p>
 						</div>
 					</div>
 				</div>
@@ -130,7 +129,7 @@
 						<img src="images/leo.jpg" class="img-responsive center-block img-portrait">
 						<div class="caption">
 							<h3>Léopoldine</h3>
-							<p>Porte-parole</p>
+							<p>Spokesperson</p>
 						</div>
 					</div>
 				</div>
@@ -148,10 +147,10 @@
     <!--<p>Volunteer by Ryan Beck from the Noun Project</p>
     <p>Heart by Veronika Geertsema König from the Noun Project</p>
     <p>Search by Jack NUMBER from the Noun Project</p>-->
-    SITE EN CONSTRUCTION
+    WEBSITE IN PROGRESS
 </div>
 <div class="col-md-6 text-right" id="suivez">
-	<p>SUIVEZ-NOUS</p>
+	<p>FOLLOW US</p>
 	<a href="https://www.facebook.com/simplykMTL/?fref=ts"><i class="icon icon-2x icon-sk icon-sk-white icon-facebook-official"></i></a>
     <a href="https://twitter.com/simplykMTL"><i class="icon icon-2x icon-sk icon-sk-white icon-twitter"></i></a>
 	<!--<a href=""><i class="icon icon-2x icon-sk icon-sk-white icon-instagram"></i></a>-->
