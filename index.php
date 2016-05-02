@@ -76,7 +76,7 @@
     </div>
     <div class="row">
       <div class="col-md-12">
-        <h1 class="text-center" id="vision">Construisons une société engagée dès maintenant</h1>
+        <h1 class="text-center" id="vision">Quand agir devient facile</h1>
       </div>
     </div>
   </div>
