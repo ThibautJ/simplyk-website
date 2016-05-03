@@ -71,7 +71,7 @@
 		</div>
 		<div class="row">
 			<div class="col-md-12">
-				<h1 class="text-center" id="vision">Let’s build an engaged society right now </h1>
+				<h1 class="text-center" id="vision">Taking action made easy </h1>
 			</div>
 		</div>
 	</div>
